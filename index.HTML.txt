@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minecraft Help</title>
+    <link rel="icon" href="favicon_32.png" type="image/png" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            color: #333;
+        }
+        .header img {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+        }
+        .logo {
+            margin-top: 20px;
+            width: 200px;
+        }
+        .message {
+            margin: 20px;
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="website_header_16x9.png" alt="Minecraft Help Header" />
+    </div>
+
+
+    <img class="logo" src="favicon_48.png" alt="Minecraft Help Logo" />
+
+
+    <div class="message">
+        <p>🏆 <strong>Services Offered</strong></p>
+        <p>✅ <strong>Building Help</strong> – Learn how to create amazing structures and design cool bases.</p>
+        <p>✅ <strong>PvP Training & Support</strong></p>
+        <ul>
+            <li>$2 – Training session (improve skills and reaction time)</li>
+            <li>$4 – Help fighting another player (real-time combat support)</li>
+            <li>$12 – All-out war support (strategies, gear, and live assistance)</li>
+        </ul>
+        <p>✅ <strong>General Help</strong> – Stuck on something? Get guidance on survival, crafting, exploration, and more.</p>
+    </div>
+
+
+    <div class="message">
+        <p>💰 <strong>Pricing</strong></p>
+        <p>$2 – 15 minutes (Quick Fix)</p>
+        <p>$4 – 30 minutes (Training Session)</p>
+        <p>$12 – 1 hour (Deep Dive)</p>
+    </div>
+
+
+    <div class="message">
+        <p>🚀 <strong>Why Choose Us?</strong></p>
+        <p>✔️ Experienced Minecraft players</p>
+        <p>✔️ Safe, kid-friendly environment</p>
+        <p>✔️ Flexible scheduling</p>
+    </div>
+</body>
+</html>
